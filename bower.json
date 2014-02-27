@@ -1,0 +1,14 @@
+{
+  "name": "ez-focus",
+  "version": "0.0.1",
+  "main": [
+    "dist/ez-focus.min.js"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}
